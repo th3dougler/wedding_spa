@@ -355,13 +355,23 @@ pre code {
 .align-left {
 	text-align: left;
 }
+.align-left.col-12-small {
+	text-align: center;
+}
 
+.align-css-center {
+	align-items: center;
+	justify-content: center;
+}
 .align-center {
 	text-align: center;
 }
 
 .align-right {
 	text-align: right;
+}
+.align-right.col-12-small {
+	text-align: center;
 }
 
 /* Container */
